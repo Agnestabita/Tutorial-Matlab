@@ -86,3 +86,10 @@
 %     end
 % end
 % disp(n);
+
+%While
+% n = 0;
+% while n < 10
+%     disp('Mengulang');
+%     n = n+1;
+% end
